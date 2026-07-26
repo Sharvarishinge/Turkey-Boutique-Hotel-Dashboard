@@ -21,7 +21,7 @@ This project is an interactive Power BI dashboard developed to analyze hotel boo
 
 ## Dashboard Preview
 
-![Turkey Boutique Hotel Dashboard](https://github.com/Sharvarishinge/Turkey-Boutique-Hotel-Dashboard/blob/main/Hotel_dashboard.png)
+![Turkey Boutique Hotel Dashboard](https://github.com/Sharvarishinge/Turkey-Boutique-Hotel-Dashboard/blob/main/hotel_dashboard.png)
 
 ## Key Insights
 - Double and Single rooms generate the highest revenue.
